@@ -12,10 +12,11 @@
 
 `babo_chickencap` is a **lightweight** and **high-performance** script that populates areas of your map with wild chickens. Players can track them, bait them with food, and then attempt to capture them. It's the perfect addition for servers that use a chicken coop system or are looking to add **immersive** and **economic activities**.
 
----
-![image|690x493, 50%](upload://ap1QT4KmV2WNfh5engtJwEMjfiU.jpeg)
-![image|690x466, 50%](upload://xykM6tRCHvEDYXkFCXpXZ9szyOV.jpeg)
-![image|690x453, 50%](upload://q2EI9IYQY3K0nhWvj4dswg93PME.jpeg)
+<img width="1256" height="898" alt="image" src="https://github.com/user-attachments/assets/2e2355dd-4b6c-4deb-bda3-1ad01f5c161c" />
+<img width="1274" height="861" alt="image" src="https://github.com/user-attachments/assets/6dc97820-f226-4f95-8cb0-a2b085569c75" />
+<img width="1245" height="818" alt="image" src="https://github.com/user-attachments/assets/a46e96e3-c591-4f96-86e2-5e6d558e7c8a" />
+
+
 
 
 ## ✨ Key Features
