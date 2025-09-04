@@ -4,7 +4,7 @@ lua54 'yes'
 
 name 'babo_chickencap'
 author 'babocha'
-description 'Capture wild hens/roosters with ox_target (Qbox / ox_lib / ox_inventory)'
+description 'Capture wild hens/roosters with ox_target '
 
 shared_scripts {
   '@ox_lib/init.lua',
@@ -18,3 +18,4 @@ client_scripts {
 server_scripts {
   'server.lua',
 }
+
