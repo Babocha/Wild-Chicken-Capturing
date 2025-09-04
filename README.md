@@ -59,6 +59,6 @@
 
 5. **You're all set!**
 
-
+* **Discord (Support)**: [Join our Discord](https://discord.gg/PuW242z4mW)
 
 
