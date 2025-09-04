@@ -45,7 +45,7 @@
 
 * -- ox_inventory/data/items.lua
 
--- Food to bait chickens
+
 ['chicken_feed'] = {
     label = 'Chicken Feed',
     weight = 500,
@@ -54,7 +54,7 @@
     description = 'A few seeds to attract the poultry.'
 },
 
--- The hen once captured
+
 ['hen'] = {
     label = 'Hen',
     weight = 2000,
@@ -63,7 +63,7 @@
     description = 'A live hen. She seems to be in good health.'
 },
 
--- The rooster once captured
+
 ['rooster'] = {
     label = 'Rooster',
     weight = 2500,
